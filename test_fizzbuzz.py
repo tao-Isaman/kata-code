@@ -1,4 +1,3 @@
-import pytest
 from fizzbuzz import fizzbuzz
 
 def test_given_1_should_return_1() -> None :
